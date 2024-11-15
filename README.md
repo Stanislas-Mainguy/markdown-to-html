@@ -15,6 +15,9 @@ Ce projet est sous licence MIT.
 - Vous êtes libre d'utiliser, de modifier et de distribuer ce projet.
 - Aucune garantie n'est fournie pour l'utilisation ou les modifications apportées.
 
+**Voici le lien vers le contenu complet de la licence MIT :**  
+[Licence MIT](./LICENSE.md)  
+
 ---  
 
 ## 📥 Installation et utilisation
