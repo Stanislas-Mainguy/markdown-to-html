@@ -1,0 +1,42 @@
+/* Import des styles des composants */
+@import '../components/molecules/markdownEditor/MarkdownEditor.css';
+@import '../components/molecules/htmlPreview/HtmlPreview.css';
+@import '../components/molecules/weatherDisplay/WeatherDisplay.css';
+@import '../components/molecules/exchangeRateDisplay/ExchangeRateDisplay.css';
+@import '../components/atoms/currencySelector/CurrencySelector.css';
+@import '../components/organisms/headerInfo/HeaderInfo.css';
+@import '../components/organisms/sideMenu/SideMenu.css';
+
+/* Styles globaux */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    padding: 20px;
+    flex: 1;
+    overflow-y: auto;
+    transition: margin-left 0.3s ease;
+}
+
+.side-menu.closed + .content {
+    margin-left: 0;
+}
