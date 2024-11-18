@@ -1,14 +1,17 @@
 # Markdown-to-HTML
 
-## 🚀 Projet
+## 🌍 Language / Langue
+- [🇫🇷 Version française](#projet-vf)
 
-**Markdown-to-HTML** est une application web interactive permettant de convertir du texte écrit en Markdown en aperçu HTML en temps réel. 
+## 🚀 Projet-VF
+
+**Markdown-to-HTML VF** est une application web interactive permettant de convertir du texte écrit en Markdown en aperçu HTML en temps réel. 
 
 Ce projet vise à offrir une interface simple et efficace pour explorer les fonctionnalités de Markdown, tout en restant léger et accessible à tous.
 
 ---  
 
-##📜 Licence MIT
+## 📜 Licence MIT
 Ce projet est sous licence MIT.  
 
 **Résumé :**  
@@ -82,3 +85,4 @@ Si vous disposez de npm, voici comment lancer un serveur local :
   http://localhost:3000
   ```
     
+- [🇫🇷 Version française](#projet-vf)
