@@ -85,4 +85,4 @@ Si vous disposez de npm, voici comment lancer un serveur local :
   http://localhost:3000
   ```
     
-- [🇫🇷 Version française](#projet-vf)
+- [🇫🇷 Version française](#-projet-vf)
